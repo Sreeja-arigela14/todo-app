@@ -1,0 +1,20 @@
+# Environment Variables
+backend/.env
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Database
+backend/db.sqlite3
+
+# Media Uploads
+backend/media/
+
+# VS Code
+.vscode/
+
+# React
+frontend/node_modules/
+frontend/dist/
