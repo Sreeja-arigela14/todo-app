@@ -18,3 +18,10 @@ backend/media/
 # React
 frontend/node_modules/
 frontend/dist/
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+*.env
